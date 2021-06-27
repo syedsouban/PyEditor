@@ -2,7 +2,7 @@ import sys
 print("Welcome to Python Text Editor")
 condition = True
 while condition == True:
-        print("""What do you want to do: 
+        print("""What do you want to do:
         1. Creating a new file
         2. Writing to a saved file
         3. Viewing a saved file
@@ -43,5 +43,6 @@ while condition == True:
                 condition=False
         else:
                 print("Invalid choice entered")
-                
 File.close()
+
+#addong a commit, bruuuh.
