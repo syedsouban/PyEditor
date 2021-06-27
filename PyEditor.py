@@ -1,5 +1,5 @@
 import sys
-print("Welcome to Python Text Editor")
+print("Welcome to Python 3 Text Editor")
 condition = True
 while condition == True:
         print("""What do you want to do:
@@ -45,4 +45,4 @@ while condition == True:
                 print("Invalid choice entered")
 File.close()
 
-#addong a commit, bruuuh.
+#adding a commit, bruuuh.
