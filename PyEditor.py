@@ -1,5 +1,5 @@
 import sys
-print("Welcome to Python Text Editor")
+print("Welcome to Python 2 Text Editor")
 condition = True
 while condition == True:
         print("""What do you want to do:
